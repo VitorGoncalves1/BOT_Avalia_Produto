@@ -8,7 +8,7 @@ Robô feito para procurar nos principais sites de vendas os itens em promoção 
 
   <br>
 
-  
+  ![Image](https://github.com/user-attachments/assets/74f21e4a-16fe-4d27-9c75-0c9c6c2058d3)
 
 
 # Resumo
